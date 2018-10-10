@@ -1,1 +1,34 @@
 # hacktoberfest-surabaya-2018
+
+## How to contribute
+
+## Step by step how to contribute
+
+## Fork repo to your repository
+
+The first step is to create a **fork** of this repo. clicking on the **fork** button on the top of this page. A fork is basically your own working copy of this repository.
+![Forking the repo](.github/fork.png)
+
+## Clone froked repo to machine
+
+The next step is to clone the forked repo to your machine.
+
+Go to your GitHub repositories and open the forked repository called hacktoberfest-surabaya-2018 (_forked from cangkrukan-klas/hacktoberfest-surabaya-2018_). Then click on the "Clone or download" button and then click the copy to clipboard icon to get your url.
+
+![Clone from forking repo](.github/clone.png)
+
+Finally run the following git command in your terminal:
+
+```sh
+git clone "the copied url"
+```
+
+For example:
+
+```
+git clone https://github.com/jokosu10/hacktoberfest-surabaya-2018.git
+```
+
+You have now created a local clone on you computer. Good job!
+
+## Create Branch In Local Computer
