@@ -1,15 +1,29 @@
 # hacktoberfest-surabaya-2018
 
-## How to contribute
+Repository for hacktoberfest surabaya 2018 for that learn to contribute to open source project
+
++ **Is this data collection?**
+
+No, this is only for learning purpose about git flow and open source contribution process.
+
++ **Do I need to attach my real name?**
+
+No, just put any data. Non-sense, we just wanna learn about open source contribution.
+
++ **Do it on your own risk**
+
+We don't collecting the data, but there is chance for other people abuse your data that submitted here. Please do it with your own risk, **we don't protect your data**.
 
 ## Step by step how to contribute
 
-## Fork repo to your repository
+this is a way to contribute to the open-source project. Please enjoy 😀
+
+### Fork repo to your repository
 
 The first step is to create a **fork** of this repo. clicking on the **fork** button on the top of this page. A fork is basically your own working copy of this repository.
 ![Forking the repo](.github/fork.png)
 
-## Clone froked repo to machine
+### Clone froked repo to machine
 
 The next step is to clone the forked repo to your machine.
 
@@ -25,13 +39,13 @@ git clone "the copied url"
 
 For example:
 
-```
+```sh
 git clone https://github.com/jokosu10/hacktoberfest-surabaya-2018.git
 ```
 
 You have now created a local clone on you computer. Good job!
 
-## Create Branch In Local Computer
+### Create Branch In Local Computer
 
 It's common practice to create a new branch for each new feature of bugfix you are working on. Let's go ahead and create one.
 
@@ -55,7 +69,7 @@ For Example
 git checkout -b add-my-profile
 ```
 
-## Add your profile.md
+### Add your profile.md
 
 Add your first file with file name `username-github.md` on the `peoples/` directory in that branch.
 
@@ -69,7 +83,7 @@ add your profile in `username-github.md` with syntax
 * email : 'xxx@xxx.com'
 ```
 
-## Committing your changes
+### Committing your changes
 
 Run git status to see which changes you have made. This will look something like:
 ![Git Status](.github/git-status.png)
@@ -92,7 +106,7 @@ For example:
 git commit -m "Add profile.md"
 ```
 
-## Push your changes to Github
+### Push your changes to Github
 
 Push your changes to GitHub by running:
 
@@ -111,6 +125,16 @@ git push origin how-to-contribute"
 This will look something like:
 ![Git Push Github](.github/git-push-branch.png)
 
+## Open a Pull Request
+
+Head over to your repository on GitHub and click on the green "Compare and pull request" button.
+
+![Compare and pull request](.github/pull-request.png)
+
+Describe your changes and submit your pull request
+
+![Submit pull request](.github/detail-pull-request.png)
+
 -----
 
 ## License
@@ -118,5 +142,3 @@ This will look something like:
 Licensed under the MIT License.
 
 -----
-
-Copyleft 2018 **KLAS (Kelompok Linux Arek Suroboyo)**
