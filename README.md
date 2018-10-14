@@ -108,6 +108,9 @@ For example:
 git push origin how-to-contribute"
 ```
 
+This will look something like:
+![Git Push Github](.github/git-push-branch.png)
+
 -----
 
 ## License
