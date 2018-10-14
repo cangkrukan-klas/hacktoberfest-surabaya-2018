@@ -55,12 +55,68 @@ For Example
 git checkout -b add-my-profile
 ```
 
+## Add your profile.md
+
+Add your first file with file name `username-github.md` on the `peoples/` directory in that branch.
+
+add your profile in `username-github.md` with syntax
+
+```md
+# My profile
+
+* name : 'xxx',
+* github : 'xxx',
+* email : 'xxx@xxx.com'
+```
+
+## Committing your changes
+
+Run git status to see which changes you have made. This will look something like:
+![Git Status](.github/git-status.png)
+
+Add these changes to your next commit by running:
+
+```sh
+git add .
+```
+
+To commit your changes, run:
+
+```sh
+git commit -m "Your message"
+```
+
+For example:
+
+```sh
+git commit -m "Add profile.md"
+```
+
+## Push your changes to Github
+
+Push your changes to GitHub by running:
+
+```sh
+git push origin <your-new-branch-name>
+```
+
+> Note: Replace `<your-new-branch-name>` with the name of your branch
+
+For example:
+
+```sh
+git push origin how-to-contribute"
+```
+
+This will look something like:
+![Git Push Github](.github/git-push-branch.png)
+
 -----
 
-### License
+## License
 
 Licensed under the MIT License.
 
-------
+-----
 
 Copyleft 2018 **KLAS (Kelompok Linux Arek Suroboyo)**
