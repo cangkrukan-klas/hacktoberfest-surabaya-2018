@@ -73,6 +73,8 @@ git checkout -b add-my-profile
 
 Add your first file with file name `username-github.md` on the `peoples/` directory in that branch.
 
+> Note: Replace `username-github.md` with the username your github, example `jokosu10.md`
+
 add your profile in `username-github.md` with syntax
 
 ```md
