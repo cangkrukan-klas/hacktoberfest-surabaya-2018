@@ -85,7 +85,7 @@ add your profile in `username-github.md` with syntax
 
 ### Committing your changes
 
-Run git status to see which changes you have made. This will look something like:
+Run `git status` to see which changes you have made. This will look something like:
 ![Git Status](.github/git-status.png)
 
 Add these changes to your next commit by running:
@@ -119,7 +119,7 @@ git push origin <your-new-branch-name>
 For example:
 
 ```sh
-git push origin how-to-contribute"
+git push origin how-to-contribute
 ```
 
 This will look something like:
