@@ -1,6 +1,6 @@
 My Profile
 
-Nama: Dwiky Anggarda Amien
+Nama: Dwiky Anggarda A.
 Github: DwikyAnggarda
 
 email: dwiky.amin@gmail.com
