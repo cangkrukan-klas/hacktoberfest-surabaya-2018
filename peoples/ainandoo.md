@@ -1,5 +1,5 @@
 # My profile
 
 * name : 'Ainan Ilmanda',
-* github : '@ainandoo',
+* github : 'https://github.com/ainandoo',
 * email : 'ainandoo@gmail.com'
